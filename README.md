@@ -6,11 +6,11 @@ Can we create a carbon flux model that uses inverse model estimates of carbon fl
  
  
 - [The Data](#the-data)
- - [How data was chosen](#how-data-was-chosen)
- - [Refining Data](#refining-data)
- - [Data Plots](#data-plots)
- - [Top-Down vs Bottom-Up](#top-down-vs-bottom-up)
- - [Other Information](#other-information)
+   - [How data was chosen](#how-data-was-chosen)
+   - [Refining Data](#refining-data)
+   - [Data Plots](#data-plots)
+   - [Top-Down vs Bottom-Up](#top-down-vs-bottom-up)
+   - [Other Information](#other-information)
 - [The Model](#the-model)
    - [Background Information](#background-information)
    - [The Structure](#the-structure)
