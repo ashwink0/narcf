@@ -193,7 +193,7 @@ We decided to include this because we thought it might fill some of the gaps whe
 ![Monthly Carbon Flux Plot](./assets/output_31_1.png)
 
    <p>
-      <em>Figure 8</em>
+      <em>Figure 9</em>
    </p>
 </center>
  
@@ -207,7 +207,7 @@ As shown above, our model can accurately estimate carbon flux on a monthly basis
 ![Monthly Carbon Flux Plot](./assets/output_32_1.png)
 
    <p>
-      <em>Figure 9</em>
+      <em>Figure 10</em>
    </p>
 </center>
 
@@ -217,7 +217,7 @@ As shown above, our model can accurately estimate carbon flux on a monthly basis
 ![Monthly Carbon Flux Plot](./assets/output_34_1.png)
 
    <p>
-      <em>Figure 10</em>
+      <em>Figure 11</em>
    </p>
 </center>
 
@@ -227,15 +227,15 @@ To further evaluate our model, we wanted to compare our results to that of anoth
 
 ![Monthly Carbon Flux Plot](./assets/output_33_1-edit.png)
 
-   <p>
-      <em>Figure 10</em>
+   <p> 
+      <em>Figure 12</em>
    </p>
 </center>
 
 The Fluxcom model, in blue, actually underestimates carbon flux for the winter months but stays consistant with our model and the true values over summer months, a time with more photosynthesis and carbon flux output occuring in North America. This not only shows the differences between bottom-up and inverse modeling for carbon flux, but also the viability and potential benefits of using the inverse modeling method for other environmental applications. 
  
 ## Future Directions
-After completing the creation of the model, there are a couple of areas that I want to explore that could potentially improve the model or put it to a certain use. One addition I could make is the use of other environmental data like the percent of forest cover in certain areas and how certain biomes compare and affect carbon flux. I would also like to expand my model to a larger region and explore what alteration I might need to make to adapt it to a part of the world.
+After completing the creation of the model, there are a couple of areas that I want to explore that could potentially improve the model or put it to a certain use. One addition I could make is the use of other environmental data like the percent of forest cover in certain areas and how certain biomes compare and affect carbon flux. I would also like to expand my model to a larger region and explore what alteration I might  need to make to adapt it to a part of the world.
  
  
 ## References
